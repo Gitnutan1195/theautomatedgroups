@@ -10,5 +10,10 @@ const myFunction = function(){
 }
 
 
+let newObj ={
+    name : nutan,
+    age: 17,
+}
+console.log(typeof newObj);
 //Reference type(non-premetive)
 //Array, objects ,function 
